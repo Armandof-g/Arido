@@ -44,8 +44,7 @@
     "gallery": [
       "assets/portal.jpg",
       "assets/portal_coaster_detail.jpg",
-      "assets/portal_table_detail.jpg",
-      "assets/portal_lineup.jpg"
+      "assets/portal_table_detail.jpg"
     ]
   },
   {
@@ -92,10 +91,9 @@
     "heroImage": "assets/haloz.jpg",
     "gallery": [
       "assets/haloz.jpg",
-      "assets/haloz_totem_table.jpg",
-      "assets/haloz_machining_rings.jpg",
+      "assets/haloz_table_detail.jpg",
       "assets/haloz_magnet_module.jpg",
-      "assets/haloz_ring_blanks.jpg"
+      "assets/haloz_modules_process.jpg"
     ]
   },
   {
@@ -142,10 +140,59 @@
     "heroImage": "assets/pyra.jpg",
     "gallery": [
       "assets/pyra.jpg",
+      "assets/pyra_table_detail.jpg",
       "assets/pyra_interaction.jpg",
-      "assets/pyra_hand_detail.jpg",
-      "assets/pyra_modules_process.jpg",
-      "assets/pyra_studio_table.jpg"
+      "assets/pyra_hand_detail.jpg"
+    ]
+  },
+  {
+    "id": "proj-fluvia",
+    "program": "LDI",
+    "programName": {
+      "es": "Licenciatura en Diseño Industrial",
+      "en": "Bachelor in Industrial Design",
+      "hr": "Preddiplomski studij industrijskog dizajna"
+    },
+    "title": {
+      "es": "FLUVIA",
+      "en": "FLUVIA",
+      "hr": "FLUVIA"
+    },
+    "subtitle": {
+      "es": "Lámpara de mesa escultórica helicoidal",
+      "en": "Sculptural helical table luminaire",
+      "hr": "Skulpturalna helikoidna stolna svjetiljka"
+    },
+    "authors": "Dayana Saucedo",
+    "advisors": {
+      "es": "Prof. Pablo Aldaba (Curador)",
+      "en": "Prof. Pablo Aldaba (Curator)",
+      "hr": "Prof. Pablo Aldaba (Kustos)"
+    },
+    "summary": {
+      "es": "Luminaria escultórica de mesa con difusor helicoidal orgánico y base escalonada de madera torneada.",
+      "en": "Sculptural table luminaire featuring an organic helical diffuser and a turned stepped wood base.",
+      "hr": "Skulpturalna stolna svjetiljka s organskim helikoidnim difuzorom i stepenastom bazom od tokarenog drva."
+    },
+    "description": {
+      "es": "Fluvia es una luminaria escultórica de mesa que investiga la fluidez formal y la modulación de la luz ambiental. Su cuerpo se compone de una pantalla helicoidal envolvente que dispersa una suave luminosidad cálida, contrastando armónicamente con una base escalonada de anillos concéntricos fabricada en madera torneada artesanalmente.\n\nEl diseño dialoga entre la precisión del modelado tridimensional contemporáneo y el oficio tradicional de la ebanistería al torno, generando una pieza con fuerte presencia táctil y visual tanto encendida como en reposo.",
+      "en": "Fluvia is a sculptural table luminaire exploring formal fluidity and ambient light modulation. Its structure features an enveloping helical shade that diffuses a warm, gentle glow, contrasting harmoniously with a stepped concentric base crafted from turned solid wood.\n\nThe piece bridges contemporary digital geometry with traditional wood lathe craftsmanship, achieving a tactile and visually compelling presence both when illuminated and at rest.",
+      "hr": "Fluvia je skulpturalna stolna svjetiljka koja istražuje fluidnost oblika i modulaciju ambijentalne svjetlosti. Njezino tijelo sastoji se od obavijajućeg helikoidnog sjenila koje širi ugodnu toplu svjetlost, u skladnom kontrastu sa stepenastom bazom od koncentričnih prstenova izrađenih od tokarenog masivnog drva.\n\nDizajn stvara dijalog između suvremene digitalne geometrije i tradicijskog tokarskog obrta, rezultirajući taktilnim i vizualno dojmljivim predmetom u prostoru."
+    },
+    "specs": {
+      "es": "Tipo: Lámpara de mesa | Materiales: Pantalla difusora helicoidal y base de madera torneada | Dimensiones: 18 x 35 cm",
+      "en": "Type: Table luminaire | Materials: Helical diffuser shade and turned wood base | Dimensions: 18 x 35 cm",
+      "hr": "Vrsta: Stolna svjetiljka | Materijali: Helikoidno sjenilo difuzora i baza od tokarenog drva | Dimenzije: 18 x 35 cm"
+    },
+    "imageFile": "fluvia.jpg",
+    "year": "2026",
+    "heroImage": "assets/fluvia.jpg",
+    "gallery": [
+      "assets/fluvia.jpg",
+      "assets/fluvia_lit.jpg",
+      "assets/fluvia_detail.jpg",
+      "assets/fluvia_base_machining.jpg",
+      "assets/fluvia_base_blanks.jpg"
     ]
   },
   {
@@ -192,11 +239,58 @@
     "heroImage": "assets/magto.jpg",
     "gallery": [
       "assets/magto.jpg",
-      "assets/magto_mannequin_detail.jpg",
-      "assets/magto_craft_process.jpg",
-      "assets/magto_runway_look.jpg",
-      "assets/magto_technical_drawing.jpg",
-      "assets/magto_runway_alt.jpg"
+      "assets/magto_craft_process.jpg"
+    ]
+  },
+  {
+    "id": "proj-margarita-look",
+    "program": "LDGM",
+    "programName": {
+      "es": "Licenciatura en Diseño y Gestión de la Moda",
+      "en": "Bachelor in Fashion Design and Management",
+      "hr": "Preddiplomski studij dizajna i modnog menadžmenta"
+    },
+    "title": {
+      "es": "THE MARGARITA LOOK",
+      "en": "THE MARGARITA LOOK",
+      "hr": "THE MARGARITA LOOK"
+    },
+    "subtitle": {
+      "es": "Indumentaria en mezclilla inspirada en la Margarita",
+      "en": "Denim garment inspired by the Margarita",
+      "hr": "Odjevni predmet od trapera inspiriran Margaritom"
+    },
+    "authors": "Maydalia Orta",
+    "advisors": {
+      "es": "Prof. Pablo Aldaba (Curador)",
+      "en": "Prof. Pablo Aldaba (Curator)",
+      "hr": "Prof. Pablo Aldaba (Kustos)"
+    },
+    "summary": {
+      "es": "Fusión de un ícono cultural juarense con el impacto internacional de la Margarita a través de textil de mezclilla reutilizado.",
+      "en": "Fusion of a Juárez cultural icon with the international impact of the Margarita through upcycled denim textile.",
+      "hr": "Spoj kulturnog simbola Ciudad Juáreza s međunarodnim utjecajem Margarite kroz reciklirani traper."
+    },
+    "description": {
+      "es": "Este look muestra la fusión de un ícono cultural juarense con el impacto internacional que la Margarita ha tenido alrededor del mundo.\n\nJuárez es una ciudad fronteriza, un espacio de constante fricción cultural, dinamismo y resiliencia.\n\nA través de las siluetas que se observan en las prendas, se juega con el material para darle una nueva vida al textil reutilizado, creando un tributo a la bebida que nos caracteriza como orgullosos juarenses.",
+      "en": "This look showcases the fusion of a Juárez cultural icon with the international impact that the Margarita has had around the world.\n\nJuárez is a border city, a space of constant cultural friction, dynamism, and resilience.\n\nThrough the silhouettes observed in the garments, the design plays with the material to give a new life to upcycled textiles, creating a tribute to the drink that defines us as proud Juárez natives.",
+      "hr": "Ovaj izgled prikazuje spoj kulturnog simbola Ciudad Juáreza s međunarodnim utjecajem koji je Margarita imala diljem svijeta.\n\nJuárez je pogranični grad, prostor stalnog kulturnog trenja, dinamizma i otpornosti.\n\nKroz siluete koje se vide u odjevnim predmetima, dizajn se poigrava materijalom kako bi udahnuo novi život ponovno upotrijebljenom tekstilu, stvarajući posvetu piću koje nas definira kao ponosne stanovnike Juáreza."
+    },
+    "specs": {
+      "es": "Tipo: Indumentaria textil / Moda | Materiales: Textil / Mezclilla reutilizada (Upcycled Denim)",
+      "en": "Type: Clothing / Textile garment | Materials: Textile / Upcycled Denim",
+      "hr": "Vrsta: Odjeća / Tekstilni odjevni predmet | Materijali: Tekstil / Reciklirani traper"
+    },
+    "imageFile": "margarita_look_hero.jpg",
+    "year": "2026",
+    "heroImage": "assets/margarita_look_hero.jpg",
+    "gallery": [
+      "assets/margarita_look_mannequin.jpg",
+      "assets/margarita_look_collar.jpg",
+      "assets/margarita_look_runway.jpg",
+      "assets/margarita_look_runway_back.jpg",
+      "assets/margarita_look_technical_drawing.jpg",
+      "assets/margarita_look_runway_alt.jpg"
     ]
   },
   {
