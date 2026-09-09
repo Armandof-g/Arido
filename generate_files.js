@@ -180,17 +180,17 @@ function getHtml(isEmbed) {
       --border-hover: rgba(194, 74, 20, 0.45);
 
       /* Etiquetas por Programa */
-      --tag-ldi-bg: rgba(194, 74, 20, 0.09);
+      --tag-ldi-bg: rgba(250, 247, 242, 0.96);
       --tag-ldi-text: #C24A14;
-      --tag-ldi-border: rgba(194, 74, 20, 0.28);
+      --tag-ldi-border: rgba(194, 74, 20, 0.4);
 
-      --tag-mddp-bg: rgba(11, 55, 153, 0.09);
+      --tag-mddp-bg: rgba(250, 247, 242, 0.96);
       --tag-mddp-text: #0B3799;
-      --tag-mddp-border: rgba(11, 55, 153, 0.28);
+      --tag-mddp-border: rgba(11, 55, 153, 0.45);
 
-      --tag-ldgm-bg: rgba(180, 120, 20, 0.12);
+      --tag-ldgm-bg: rgba(250, 247, 242, 0.96);
       --tag-ldgm-text: #996008;
-      --tag-ldgm-border: rgba(180, 120, 20, 0.3);
+      --tag-ldgm-border: rgba(180, 120, 20, 0.4);
 
       --font-heading: 'Montserrat', sans-serif;
       --font-body: 'Montserrat', sans-serif;
@@ -588,6 +588,8 @@ function getHtml(isEmbed) {
       letter-spacing: 0.5px;
       z-index: 2;
       backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
     }
     .tag-ldi {
       background: var(--tag-ldi-bg);
@@ -1366,9 +1368,12 @@ function getHtml(isEmbed) {
       try {
         localStorage.removeItem('uacj_zagreb_projects');
         localStorage.removeItem('uacj_zagreb_projects_v12');
+        localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v2');
+        localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v3');
+        localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v4');
       } catch (e) {}
 
-      var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v2';
+      var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v5';
       try {
         var saved = localStorage.getItem(STORAGE_KEY);
         if (saved) {
@@ -1456,7 +1461,7 @@ function getHtml(isEmbed) {
 
     function saveProjects() {
       try {
-        localStorage.setItem('uacj_zagreb_projects_v2026_galleries_v2', JSON.stringify(projectsState));
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(projectsState));
       } catch (e) {}
     }
 
@@ -1905,9 +1910,12 @@ function initGallery() {
   try {
     localStorage.removeItem('uacj_zagreb_projects');
     localStorage.removeItem('uacj_zagreb_projects_v12');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v2');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v3');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v4');
   } catch (e) {}
 
-  var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v2';
+  var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v5';
   try {
     var saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
@@ -1995,7 +2003,7 @@ function setupGridClick() {
 
 function saveProjects() {
   try {
-    localStorage.setItem('uacj_zagreb_projects_v2026_galleries_v2', JSON.stringify(projectsState));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(projectsState));
   } catch (e) {}
 }
 
