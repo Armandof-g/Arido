@@ -492,10 +492,11 @@ var INITIAL_PROJECTS = [
       "en": "Type: Digital platform | Technologies: Cloud Grasshopper, 3D Web visualization, CNC cut/3D print exports | Web: <a href=\"https://www.wekanastudio.com\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:var(--accent-arido-light); text-decoration:underline; font-weight:600;\">www.wekanastudio.com ↗</a>",
       "hr": "Vrsta: Digitalna platforma | Tehnologije: Grasshopper u oblaku, 3D web vizualizacija i priprema za CNC rezanje / 3D ispis | Web: <a href=\"https://www.wekanastudio.com\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:var(--accent-arido-light); text-decoration:underline; font-weight:600;\">www.wekanastudio.com ↗</a>"
     },
-    "imageFile": "maker_mobili.jpg",
+    "imageFile": "maker_mobili_render.jpg",
     "year": "2026",
-    "heroImage": "assets/maker_mobili.jpg",
+    "heroImage": "assets/maker_mobili_render.jpg",
     "gallery": [
+      "assets/maker_mobili_render.jpg",
       "assets/maker_mobili.jpg",
       "assets/maker_mobili_poster.jpg",
       "assets/maker_mobili_plataforma.jpg",
@@ -1006,9 +1007,10 @@ function initGallery() {
     localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v21');
     localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v22');
     localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v23');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v24');
   } catch (e) {}
 
-  var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v24';
+  var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v25';
   try {
     var saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
