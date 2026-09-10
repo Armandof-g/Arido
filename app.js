@@ -21,7 +21,7 @@ var INITIAL_PROJECTS = [
       "en": "Coaster and candle holder",
       "hr": "Podmetači i svijećnjak"
     },
-    "authors": "Dayana Saucedo",
+    "authors": "Dayana Saucedo Cazares",
     "advisors": {
       "es": "Prof. Pablo Aldaba (Curador)",
       "en": "Prof. Pablo Aldaba (Curator)",
@@ -47,8 +47,11 @@ var INITIAL_PROJECTS = [
     "heroImage": "assets/portal.jpg",
     "gallery": [
       "assets/portal.jpg",
-      "assets/portal_coaster_detail.jpg",
-      "assets/portal_table_detail.jpg"
+      "assets/portal_table_setting.jpg",
+      "assets/portal_coasters_star.jpg",
+      "assets/portal_in_use.jpg",
+      "assets/portal_vertical_studio.jpg",
+      "assets/portal_lit_full.jpg"
     ]
   },
   {
@@ -69,7 +72,7 @@ var INITIAL_PROJECTS = [
       "en": "Modular sculptural candle holder",
       "hr": "Modularni skulpturalni svijećnjak"
     },
-    "authors": "Dayana Saucedo",
+    "authors": "Dayana Saucedo Cazares",
     "advisors": {
       "es": "Prof. Pablo Aldaba (Curador)",
       "en": "Prof. Pablo Aldaba (Curator)",
@@ -95,9 +98,9 @@ var INITIAL_PROJECTS = [
     "heroImage": "assets/haloz.jpg",
     "gallery": [
       "assets/haloz.jpg",
-      "assets/haloz_table_detail.jpg",
-      "assets/haloz_magnet_module.jpg",
-      "assets/haloz_modules_process.jpg"
+      "assets/haloz_modular_table.jpg",
+      "assets/haloz_hand_interaction.jpg",
+      "assets/haloz_studio_portrait.jpg"
     ]
   },
   {
@@ -118,7 +121,7 @@ var INITIAL_PROJECTS = [
       "en": "Interactive modular candle holder",
       "hr": "Interaktivni modularni svijećnjak"
     },
-    "authors": "Dayana Saucedo",
+    "authors": "Dayana Saucedo Cazares",
     "advisors": {
       "es": "Prof. Pablo Aldaba (Curador)",
       "en": "Prof. Pablo Aldaba (Curator)",
@@ -144,9 +147,11 @@ var INITIAL_PROJECTS = [
     "heroImage": "assets/pyra.jpg",
     "gallery": [
       "assets/pyra.jpg",
-      "assets/pyra_table_detail.jpg",
-      "assets/pyra_interaction.jpg",
-      "assets/pyra_hand_detail.jpg"
+      "assets/pyra_chalice_configuration.jpg",
+      "assets/pyra_designer_interaction.jpg",
+      "assets/pyra_hand_detail.jpg",
+      "assets/pyra_candle_placement.jpg",
+      "assets/pyra_studio_portrait.jpg"
     ]
   },
   {
@@ -167,7 +172,7 @@ var INITIAL_PROJECTS = [
       "en": "Sculptural helical table luminaire",
       "hr": "Skulpturalna helikoidna stolna svjetiljka"
     },
-    "authors": "Dayana Saucedo",
+    "authors": "Dayana Saucedo Cazares",
     "advisors": {
       "es": "Prof. Pablo Aldaba (Curador)",
       "en": "Prof. Pablo Aldaba (Curator)",
@@ -193,10 +198,10 @@ var INITIAL_PROJECTS = [
     "heroImage": "assets/fluvia.jpg",
     "gallery": [
       "assets/fluvia.jpg",
-      "assets/fluvia_lit.jpg",
-      "assets/fluvia_detail.jpg",
-      "assets/fluvia_base_machining.jpg",
-      "assets/fluvia_base_blanks.jpg"
+      "assets/fluvia_glowing_ambient.jpg",
+      "assets/fluvia_hand_interaction.jpg",
+      "assets/fluvia_pair_table.jpg",
+      "assets/fluvia_lit.jpg"
     ]
   },
   {
@@ -217,7 +222,7 @@ var INITIAL_PROJECTS = [
       "en": "Borderland resilient garment",
       "hr": "Granični otporni odjevni predmet"
     },
-    "authors": "Sara Sánchez & Alexandra Armenta",
+    "authors": "Alexandra Armenta",
     "advisors": {
       "es": "Prof. Pablo Aldaba (Curador)",
       "en": "Prof. Pablo Aldaba (Curator)",
@@ -306,14 +311,14 @@ var INITIAL_PROJECTS = [
       "hr": "Preddiplomski studij industrijskog dizajna"
     },
     "title": {
-      "es": "LUMORIA",
-      "en": "LUMORIA",
-      "hr": "LUMORIA"
+      "es": "LUMINARIA COLGANTE",
+      "en": "PENDANT LUMINAIRE",
+      "hr": "VISEĆA SVJETILJKA"
     },
     "subtitle": {
-      "es": "Luminaria de pared interactiva",
-      "en": "Interactive wall luminaire",
-      "hr": "Interaktivna zidna svjetiljka"
+      "es": "Luminaria colgante en cuero y acero",
+      "en": "Pendant luminaire in leather and steel",
+      "hr": "Viseća svjetiljka od kože i čelika"
     },
     "authors": "Eugenia Loya Fernández",
     "advisors": {
@@ -322,29 +327,80 @@ var INITIAL_PROJECTS = [
       "hr": "Prof. Pablo Aldaba (Kustos)"
     },
     "summary": {
-      "es": "Luminaria de pared interactiva que explora la relación dinámica entre luz, movimiento y material.",
-      "en": "Interactive wall luminaire exploring the dynamic relationship between light, movement, and material.",
-      "hr": "Interaktivna zidna svjetiljka koja istražuje dinamičan odnos između svjetlosti, pokreta i materijala."
+      "es": "Luminaria colgante (Lumoria) compuesta por una estructura metálica interna y una pantalla de cuero con pliegues naturales.",
+      "en": "Pendant luminaire (Lumoria) composed of an internal metal structure and a leather shade with natural folds.",
+      "hr": "Viseća svjetiljka (Lumoria) sastavljena od unutarnje metalne strukture i kožnog sjenila s prirodnim naborima."
     },
     "description": {
-      "es": "Lumoria es una colección de tres luminarias de pared que explora la relación entre la luz, el movimiento y el material. Su nombre deriva de las palabras en español luz, movimiento y material, reuniendo los tres conceptos fundamentales que definen la colección. En lugar de permanecer estática, cada luminaria invita a la interacción, permitiendo que la luz, la forma y la sombra evolucionen a través del movimiento y creando un diálogo dinámico entre el objeto y su usuario.\n\nEl diseño incorpora un portalámparas ajustable que permite girar toda la pantalla, permitiendo al usuario redirigir la luz y transformar sutilmente la apariencia del objeto. Un simple gesto cambia tanto la experiencia lumínica como la expresión visual de la pieza, creando una interacción viva entre el usuario y el objeto.",
-      "en": "Lumoria is a collection of three wall luminaires exploring the interplay between light, movement, and material. Its name stems from the Spanish words luz, movimiento, and material, bringing together the three core concepts defining the collection. Rather than remaining static, each luminaire invites interaction, allowing light, shape, and shadow to evolve through motion and creating a dynamic dialogue between object and user.\n\nThe design incorporates an adjustable socket that allows the entire shade to rotate, enabling the user to redirect light and subtly transform the object's appearance. A simple gesture changes both the lighting experience and the visual expression of the piece, creating a living interaction between user and object.",
-      "hr": "Lumoria je kolekcija od tri zidne svjetiljke koja istražuje međuigru svjetlosti, kretanja i materijala. Ime potječe od španjolskih riječi luz (svjetlost), movimiento (pokret) i material (materijal), spajajući tri temeljna koncepta kolekcije. Umjesto statičnosti, svaka svjetiljka poziva na interakciju, omogućujući da se svjetlo, oblik i sjena razvijaju kroz pokret stvarajući dinamičan dijalog između predmeta i korisnika.\n\nDizajn uključuje podesivo grlo koje omogućuje rotaciju cijelog sjenila, dopuštajući korisniku usmjeravanje svjetla i suptilnu transformaciju izgleda predmeta."
+      "es": "Luminaria colgante compuesta por una estructura metálica interna y una pantalla de cuero. El cuero fue posicionado manualmente alrededor de la estructura, permitiendo que el material caiga y forme pliegues naturales. Estos pliegues crean un movimiento visual que aporta dinamismo a la pieza y cambia su percepción desde diferentes ángulos. Esta disposición hace que la configuración de la pantalla sea única, resaltando la interacción entre la estructura rígida y el comportamiento flexible del material.",
+      "en": "The pendant luminaire is composed of an internal metal structure and a leather shade. The leather was manually arranged around the structure, allowing the material to fall and form natural folds. These folds create visual movement that adds dynamism to the piece and alters its perception from different angles. This arrangement makes the view from each side unique, highlighting the interaction between the rigid structure and the flexible behavior of the material.",
+      "hr": "Viseća svjetiljka sastoji se od unutarnje metalne strukture i kožnog sjenila. Koža je ručno postavljena oko strukture, omogućujući materijalu da prirodno pada i stvara nabore. Ovi nabori stvaraju vizualni pokret koji unosi dinamiku u komad i mijenja njegovu percepciju iz različitih kutova. Ovakav raspored čini pogled sa svake strane jedinstvenim, naglašavajući interakciju između krute strukture i fleksibilnog ponašanja materijala."
     },
     "specs": {
-      "es": "Tipo: Luminaria de pared | Materiales: Pantalla de cuero, montura de pared de acero, portalámparas ajustable, foco LED E27 | Dimensiones: 30 x 25 cm",
-      "en": "Type: Wall-mounted luminaire | Materials: Leather shade, steel wall mount, adjustable socket, E27 LED bulb | Dimensions: 30 x 25 cm",
-      "hr": "Vrsta: Zidna svjetiljka | Materijali: Kožno sjenilo, čelični zidni nosač, podesivo grlo, E27 LED žarulja | Dimenzije: 30 x 25 cm"
+      "es": "Tipo de producto: Luminaria colgante | Materiales: Cuero y acero | Dimensiones: 25 x 30 x 111 cm",
+      "en": "Product type: Pendant luminaire | Materials: Leather and steel | Dimensions: 25 x 30 x 111 cm",
+      "hr": "Vrsta proizvoda: Viseća svjetiljka | Materijali: Koža i čelik | Dimenzije: 25 x 30 x 111 cm"
     },
-    "imageFile": "lumoria.jpg",
+    "imageFile": "lumoria_studio_pendant.jpg",
     "year": "2026",
-    "heroImage": "assets/lumoria.jpg",
+    "heroImage": "assets/lumoria_studio_pendant.jpg",
     "gallery": [
-      "assets/lumoria.jpg",
       "assets/lumoria_studio_pendant.jpg",
+      "assets/lumoria_socket_detail.jpg",
       "assets/lumoria_leather_craft.jpg",
+      "assets/lumoria_leather_cutting.jpg",
       "assets/lumoria_steel_cage.jpg",
-      "assets/lumoria_leather_assembly.jpg"
+      "assets/lumoria_leather_hide.jpg"
+    ]
+  },
+  {
+    "id": "proj-intermov",
+    "program": "LDI",
+    "programName": {
+      "es": "Licenciatura en Diseño Industrial",
+      "en": "Bachelor in Industrial Design",
+      "hr": "Preddiplomski studij industrijskog dizajna"
+    },
+    "title": {
+      "es": "INTERMOV",
+      "en": "INTERMOV",
+      "hr": "INTERMOV"
+    },
+    "subtitle": {
+      "es": "Luminaria de mesa interactiva",
+      "en": "Interactive table luminaire",
+      "hr": "Interaktivna stolna svjetiljka"
+    },
+    "authors": "Eugenia Loya Fernández",
+    "advisors": {
+      "es": "Prof. Pablo Aldaba (Curador)",
+      "en": "Prof. Pablo Aldaba (Curator)",
+      "hr": "Prof. Pablo Aldaba (Kustos)"
+    },
+    "summary": {
+      "es": "Luminaria de mesa interactiva que invita a la manipulación directa de sus componentes eléctricos, convirtiendo al usuario en co-creador.",
+      "en": "Interactive table luminaire that invites direct manipulation of its electrical components, transforming the user into a co-creator.",
+      "hr": "Interaktivna stolna svjetiljka koja poziva na izravnu manipulaciju električnim komponentama, pretvarajući korisnika u su-stvaratelja."
+    },
+    "description": {
+      "es": "A través de un enfoque lúdico y dinámico, la pieza invita a la manipulación directa de sus componentes eléctricos, convirtiendo el acto de iluminar en una experiencia interactiva y personalizada, es decir, convierte al usuario en co-creador.\n\nEl desorden deliberado del cableado contrasta de manera armónica con la geometría de la estructura, generando flujo visual constante. Al no poseer una configuración fija, cada interacción altera la composición de luces, sombras y líneas, logrando que el objeto mute continuamente y se adapte de forma única a la sensibilidad estética de quien lo posee.",
+      "en": "Through a playful and dynamic approach, the table luminaire invites direct manipulation of its electrical components, redefining the act of lighting into an interactive and personalized experience as it transforms the user into a co-creator.\n\nThe deliberate clutter of the wiring contrasts harmoniously with the geometry of the structure, generating constant visual movement. With no fixed configuration, each interaction alters the composition of lights, shadows, and lines, allowing the object to continuously mutate and uniquely adapt to the aesthetic sensibility of its owner.",
+      "hr": "Kroz razigran i dinamičan pristup, stolna svjetiljka poziva na izravnu manipulaciju električnim komponentama, pretvarajući čin osvjetljavanja u interaktivno i personalizirano iskustvo jer korisnika pretvara u su-stvaratelja.\n\nNamjerni nered ožičenja skladno je u kontrastu s geometrijom strukture, stvarajući stalan vizualni pokret. Bez fiksne konfiguracije, svaka interakcija mijenja kompoziciju svjetla, sjena i linija, omogućujući objektu da kontinuirano mutira i jedinstveno se prilagodi estetskoj osjetljivosti svog vlasnika."
+    },
+    "specs": {
+      "es": "Tipo de producto: Luminaria de mesa | Materiales: Estructura de aluminio, conectores de PLA y cable textil | Dimensiones: 37 x 47 x 51 cm",
+      "en": "Product type: Table luminaire | Materials: Aluminum structure, PLA connectors, and textile cable | Dimensions: 37 x 47 x 51 cm",
+      "hr": "Vrsta proizvoda: Stolna svjetiljka | Materijali: Aluminijska struktura, PLA konektori i tekstilni kabel | Dimenzije: 37 x 47 x 51 cm"
+    },
+    "imageFile": "intermov.jpg",
+    "year": "2026",
+    "heroImage": "assets/intermov.jpg",
+    "gallery": [
+      "assets/intermov.jpg",
+      "assets/intermov_structure.jpg",
+      "assets/intermov_joint_detail.jpg",
+      "assets/intermov_parts_layout.jpg",
+      "assets/intermov_cable_coil.jpg"
     ]
   },
   {
@@ -490,10 +546,10 @@ var INITIAL_PROJECTS = [
     "heroImage": "assets/centrifugal_remnant.jpg",
     "gallery": [
       "assets/centrifugal_remnant.jpg",
-      "assets/centrifugal_remnant_hand.jpg",
       "assets/centrifugal_remnant_top.jpg",
       "assets/centrifugal_remnant_angle.jpg",
-      "assets/centrifugal_remnant_detail.jpg"
+      "assets/centrifugal_remnant_detail.jpg",
+      "assets/centrifugal_remnant_ring5.jpg"
     ]
   },
   {
@@ -689,6 +745,55 @@ var INITIAL_PROJECTS = [
       "assets/pulsera_wearable_user.jpg",
       "assets/pulsera_wearable_sketch.jpg"
     ]
+  },
+  {
+    "id": "curador-pablo-aldaba",
+    "program": "MDDP",
+    "programName": {
+      "es": "Maestría en Diseño y Desarrollo de Producto",
+      "en": "Master in Product Design and Development",
+      "hr": "Poslijediplomski studij dizajna i razvoja proizvoda"
+    },
+    "title": {
+      "es": "MTRO. PABLO ALDABA",
+      "en": "PABLO ALDABA, M.DES.",
+      "hr": "MR. SC. PABLO ALDABA"
+    },
+    "subtitle": {
+      "es": "Curaduría · Exposición ÁRIDO",
+      "en": "Curator · ÁRIDO Exhibition",
+      "hr": "Kustos · Izložba ÁRIDO"
+    },
+    "authors": {
+      "es": "Curador · Muestra ÁRIDO",
+      "en": "Curator · ÁRIDO Exhibition",
+      "hr": "Kustos · Izložba ÁRIDO"
+    },
+    "advisors": {
+      "es": "Coordinador MDDP · IADA / UACJ",
+      "en": "MDDP Coordinator · IADA / UACJ",
+      "hr": "MDDP Koordinator · IADA / UACJ"
+    },
+    "summary": {
+      "es": "Diseñador industrial, docente universitario y curador de diseño. Coordinador de la Maestría en Diseño y Desarrollo de Producto (UACJ) y curador de la muestra ÁRIDO.",
+      "en": "Industrial designer, university educator, and design curator. Coordinator of the Master's Program in Product Design and Development (UACJ) and curator of the ÁRIDO exhibition.",
+      "hr": "Industrijski dizajner, sveučilišni predavač i kustos dizajna. Koordinator poslijediplomskog studija dizajna i razvoja proizvoda (UACJ) i kustos izložbe ÁRIDO."
+    },
+    "description": {
+      "es": "Diseñador industrial, docente universitario y curador de diseño con más de una década de trayectoria en educación superior, desarrollo de producto, fabricación digital y gestión académica. Actualmente se desempeña como Coordinador de la Maestría en Diseño y Desarrollo de Producto en la Universidad Autónoma de Ciudad Juárez (UACJ) y como Curador de las piezas y proyectos de la muestra ÁRIDO seleccionadas para su exhibición en Zagreb Design Week 2026.\n\nSu práctica integra pensamiento crítico, experimentación material, tecnologías emergentes e inteligencia artificial aplicada a los procesos de diseño, con un firme compromiso por vincular la academia, la industria y la comunidad fronteriza con la escena internacional del diseño.\n\nCuenta con formación de posgrado por la UACJ, así como especializaciones internacionales en Diseño de Calzado en PENSOLE (Portland, Oregón) y Arsutoria School (Milán, Italia). Ha liderado proyectos curatoriales de alto impacto como 'Design in the Middle' (DIM) en Tijuana Design Week 2025 y la dirección conceptual del 25º Aniversario del Diseño Industrial en la UACJ (Vórtice), además de haber obtenido el primer lugar internacional en el Concurso CREÁRE.",
+      "en": "Industrial designer, university educator, and design curator with over a decade of experience in higher education, product development, digital fabrication, and academic leadership. He currently serves as Coordinator of the Master's Program in Product Design and Development at Universidad Autónoma de Ciudad Juárez (UACJ) and Curator of the ÁRIDO exhibition pieces selected for presentation at Zagreb Design Week 2026.\n\nHis practice bridges critical thinking, material experimentation, emerging technologies, and artificial intelligence applied to the design process, emphasizing strong connections between academia, industry, and the northern Mexico border community with global design platforms.\n\nHis academic background includes a Master's degree from UACJ and specialized international studies in Footwear Design at PENSOLE (Portland, Oregon) and Arsutoria School (Milan, Italy). He has curated and directed major exhibitions including 'Design in the Middle' (DIM) at Tijuana Design Week 2025 and 'Vórtice' for the 25th Anniversary of Industrial Design at UACJ, alongside earning first place in the prestigious international CREÁRE competition.",
+      "hr": "Industrijski dizajner, sveučilišni predavač i kustos dizajna s više od desetljeća iskustva u visokom obrazovanju, razvoju proizvoda, digitalnoj fabrikaciji i akademskom upravljanju. Trenutno djeluje kao koordinator Poslijediplomskog studija dizajna i razvoja proizvoda na Sveučilištu Autónoma de Ciudad Juárez (UACJ) te kao kustos radova i projekata izložbe ÁRIDO odabranih za predstavljanje na Zagreb Design Weeku 2026.\n\nNjegova praksa povezuje kritičko razmišljanje, materijalno eksperimentiranje, napredne tehnologije i umjetnu inteligenciju primijenjenu na proces oblikovanja, s jasnim fokusom na povezivanje akademije, industrije i pogranične zajednice s međunarodnom scenom.\n\nMagistrirao je na UACJ-u uz međunarodno usavršavanje iz dizajna obuće na PENSOLE (Portland, Oregon) i Arsutoria School (Milano, Italija). Vodio je kustoske projekte poput 'Design in the Middle' (DIM) na Tijuana Design Weeku 2025. i 'Vórtice' povodom 25. obljetnice industrijskog dizajna na UACJ-u, te osvojio prvo mjesto na međunarodnom natjecanju CREÁRE."
+    },
+    "specs": "",
+    "imageFile": "pablo_aldaba.jpg",
+    "year": "2026",
+    "heroImage": "assets/pablo_aldaba.jpg",
+    "gallery": [
+      "assets/pablo_aldaba.jpg",
+      "assets/pablo_aldaba_teaching.jpg",
+      "assets/pablo_aldaba_workshop.jpg",
+      "assets/pablo_aldaba_lab.jpg"
+    ]
   }
 ];
 var I18N_UI = {
@@ -721,32 +826,34 @@ var I18N_UI = {
     "badge_photos": "fotos",
     "footer_desc": "Instituto de Arquitectura, Diseño y Arte (IADA) · Universidad Autónoma de Ciudad Juárez. Fomentando el talento creativo y el desarrollo tecnológico con proyección internacional.",
     "footer_col_programs": "PROGRAMAS EDUCATIVOS",
-    "footer_col_event": "EVENTO",
+    "footer_col_event": "EVENTO & COMUNIDAD",
     "footer_link_ldi": "Licenciatura en Diseño Industrial (LDI)",
     "footer_link_ldgm": "Licenciatura en Diseño y Gestión de la Moda (LDGM)",
     "footer_link_mddp": "Maestría en Diseño y Desarrollo de Producto (MDDP)",
+    "footer_link_uacj": "Universidad Autónoma de Ciudad Juárez (UACJ)",
     "footer_link_dept": "Departamento de Diseño UACJ",
-    "footer_link_zdw": "Zagreb Design Week Oficial"
+    "footer_link_zdw": "Zagreb Design Week Oficial",
+    "footer_link_ig": "Instagram @desdesign.mx"
   },
   "en": {
     "brand_title": "UACJ Design Exhibition",
     "brand_subtitle": "LDI · LDGM · Master's (MDDP)",
     "hero_pill": "🏛️ Universidad Autónoma de Ciudad Juárez × Zagreb Design Week 2026",
-    "hero_title": "Innovation, Design & Impact from the Northern Borderland",
+    "hero_title": "Innovation, Design & Impact from the Northern Border",
     "hero_desc": "Explore the curated collection of projects from the <strong>Bachelor in Industrial Design (LDI)</strong>, the <strong>Bachelor in Fashion Design and Management (LDGM)</strong>, and the <strong>Master in Product Design and Development (MDDP)</strong> presented at Zagreb Design Week.",
     "filter_all": "All Projects",
     "filter_ldi": "Industrial Design (LDI)",
     "filter_ldgm": "Fashion Design (LDGM)",
     "filter_mddp": "Master's (MDDP)",
-    "search_placeholder": "Search by title, designer, or topic...",
-    "card_view_btn": "View Details →",
+    "search_placeholder": "Search by title, author or topic...",
+    "card_view_btn": "View Project →",
     "tag_ldi": "LDI · Industrial",
     "tag_ldgm": "LDGM · Fashion",
     "tag_mddp": "MDDP · Master",
     "no_projects_title": "No projects found",
-    "no_projects_desc": "Try searching with different keywords or filters.",
-    "modal_fullscreen": "Full Screen",
-    "modal_label_program": "Program",
+    "no_projects_desc": "Try searching with different keywords or changing the filter.",
+    "modal_fullscreen": "Fullscreen View",
+    "modal_label_program": "Degree Program",
     "modal_label_authors": "Author(s)",
     "modal_label_curatorship": "Curatorship",
     "modal_label_exhibition": "Exhibition",
@@ -757,12 +864,14 @@ var I18N_UI = {
     "badge_photos": "photos",
     "footer_desc": "Institute of Architecture, Design and Art (IADA) · Universidad Autónoma de Ciudad Juárez. Fostering creative talent and technological development with international impact.",
     "footer_col_programs": "ACADEMIC PROGRAMS",
-    "footer_col_event": "EVENT",
+    "footer_col_event": "EVENT & COMMUNITY",
     "footer_link_ldi": "Bachelor in Industrial Design (LDI)",
     "footer_link_ldgm": "Bachelor in Fashion Design and Management (LDGM)",
     "footer_link_mddp": "Master in Product Design and Development (MDDP)",
+    "footer_link_uacj": "Universidad Autónoma de Ciudad Juárez (UACJ)",
     "footer_link_dept": "UACJ Department of Design",
-    "footer_link_zdw": "Official Zagreb Design Week"
+    "footer_link_zdw": "Official Zagreb Design Week",
+    "footer_link_ig": "Instagram @desdesign.mx"
   },
   "hr": {
     "brand_title": "Izložba dizajna UACJ",
@@ -793,12 +902,14 @@ var I18N_UI = {
     "badge_photos": "fotografija",
     "footer_desc": "Institut za arhitekturu, dizajn i umjetnost (IADA) · Universidad Autónoma de Ciudad Juárez. Poticanje kreativnog talenta i tehnološkog razvoja s međunarodnim dosegom.",
     "footer_col_programs": "OBRAZOVNI PROGRAMI",
-    "footer_col_event": "DOGAĐANJE",
+    "footer_col_event": "DOGAĐANJE I ZAJEDNICA",
     "footer_link_ldi": "Preddiplomski studij industrijskog dizajna (LDI)",
     "footer_link_ldgm": "Preddiplomski studij dizajna i modnog menadžmenta (LDGM)",
     "footer_link_mddp": "Poslijediplomski studij dizajna i razvoja proizvoda (MDDP)",
+    "footer_link_uacj": "Universidad Autónoma de Ciudad Juárez (UACJ)",
     "footer_link_dept": "Odjel za dizajn UACJ",
-    "footer_link_zdw": "Službene stranice Zagreb Design Week"
+    "footer_link_zdw": "Službene stranice Zagreb Design Week",
+    "footer_link_ig": "Instagram @desdesign.mx"
   }
 };
 
@@ -876,9 +987,28 @@ function initGallery() {
     localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v2');
     localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v3');
     localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v4');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v5');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v6');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v7');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v8');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v9');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v10');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v11');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v12');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v13');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v14');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v15');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v16');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v17');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v18');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v19');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v20');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v21');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v22');
+    localStorage.removeItem('uacj_zagreb_projects_v2026_galleries_v23');
   } catch (e) {}
 
-  var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v5';
+  var STORAGE_KEY = 'uacj_zagreb_projects_v2026_galleries_v24';
   try {
     var saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
@@ -981,7 +1111,7 @@ function renderProjects() {
     var matchesFilter = (currentFilter === 'ALL' || p.program === currentFilter);
 
     var title = getI18n(p.title, currentLang);
-    var authors = p.authors || '';
+    var authors = getI18n(p.authors, currentLang) || p.authors || '';
     var summary = getI18n(p.summary, currentLang);
     var specs = getI18n(p.specs, currentLang);
 
@@ -1248,17 +1378,28 @@ function openDetailModal(id) {
   }
   modalHtml += '  </div>';
 
-  modalHtml += '  <div class="modal-meta-grid">';
-  modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_program + '</div><div class="meta-item-value">' + progName + '</div></div>';
-  modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_authors + '</div><div class="meta-item-value">' + p.authors + '</div></div>';
-  modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_curatorship + '</div><div class="meta-item-value">' + advisors + '</div></div>';
-  modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_exhibition + '</div><div class="meta-item-value">' + dict.modal_exhibition_val + '</div></div>';
-  modalHtml += '  </div>';
+  if (p.id === 'curador-pablo-aldaba') {
+    modalHtml += '  <div class="modal-meta-grid" style="display:flex; justify-content:space-between; align-items:flex-end; gap:1.5rem; flex-wrap:wrap;">';
+    modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_program + '</div><div class="meta-item-value">' + progName + '</div></div>';
+    modalHtml += '    <div style="text-align:right; margin-left:auto;"><div class="meta-item-value">' + advisors + '</div></div>';
+    modalHtml += '  </div>';
+  } else {
+    modalHtml += '  <div class="modal-meta-grid">';
+    modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_program + '</div><div class="meta-item-value">' + progName + '</div></div>';
+    if (p.authors) {
+      var authorsVal = getI18n(p.authors, currentLang) || p.authors;
+      modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_authors + '</div><div class="meta-item-value">' + authorsVal + '</div></div>';
+    }
+    modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_curatorship + '</div><div class="meta-item-value">' + advisors + '</div></div>';
+    modalHtml += '    <div><div class="meta-item-label">' + dict.modal_label_exhibition + '</div><div class="meta-item-value">' + dict.modal_exhibition_val + '</div></div>';
+    modalHtml += '  </div>';
+  }
 
-  modalHtml += '  <h3 class="modal-section-title">' + dict.modal_section_concept + '</h3>';
+  var sectionTitle = (p.id === 'curador-pablo-aldaba') ? 'Bio' : dict.modal_section_concept;
+  modalHtml += '  <h3 class="modal-section-title">' + sectionTitle + '</h3>';
   modalHtml += '  <div class="modal-description">' + description + '</div>';
 
-  if (specs) {
+  if (specs && p.id !== 'curador-pablo-aldaba') {
     modalHtml += '  <h3 class="modal-section-title">' + dict.modal_section_specs + '</h3>';
     modalHtml += '  <div style="background:#F4EFEA; padding:1rem; border-radius:10px; border:1px solid var(--border-color); font-size:0.92rem; color:var(--text-secondary);">' + formatSpecsHtml(specs) + '</div>';
   }
